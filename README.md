@@ -1,3 +1,3 @@
 # CapstoneDesign_NewSeconds
 <
-![포스터](/졸작포스터.png)
+![포스터](https://github.com/Beatriz-Yun/CapstoneDesign_NewSeconds/졸작포스터.png)
