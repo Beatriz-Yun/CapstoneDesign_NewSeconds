@@ -4,4 +4,4 @@
 
 [발표영상](https://youtu.be/iHGafqd3hug)
 
-![발표자료](./최종발표자료.pdf)
+[발표자료](./최종발표자료.pdf)
